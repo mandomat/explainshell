@@ -7,7 +7,7 @@ write down a command-line to see the help text that matches each argument
 
 * Download `explainshell.py`.
 * `mv explainshell.py /usr/local/bin/explainshell`.
-* Execute the script like in the example below.
+* Execute the script like in the example below (python3 is required).
 
 example:
 
